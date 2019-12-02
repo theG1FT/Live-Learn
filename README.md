@@ -52,15 +52,15 @@
 
 >“java最新视频资源 黑马&传智 就业班视频 2017-2018年最新全套视频教程” Java基础班
 
-java IO流 类图
+**java IO流 类图**
 
 ![java.io.png](https://github.com/theG1FT/Knowledge-Base/blob/master/Java%E5%9F%BA%E7%A1%80/java.io.png)
 
-java collection&map 类图
+**java collection&map 类图**
 
 ![java.util.collection&map.png](https://github.com/theG1FT/Knowledge-Base/blob/master/Java%E5%9F%BA%E7%A1%80/java.util.collection%26map.png)
 
-java Socket 网络开发 类图
+**java Socket 网络开发 类图**
 
 ![java.net.png](https://github.com/theG1FT/Knowledge-Base/blob/master/Java%E5%9F%BA%E7%A1%80/java.net.png)
 
