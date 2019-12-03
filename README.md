@@ -12,8 +12,8 @@
 	
 **二. 知识库**
 
-1. [Java基础](#Java基础)
-2. [ 协作开发 Git](#协作开发-Git)
+1. [Java基础](#1.Java基础)
+2. [ 协作开发 Git](#2.协作开发-Git)
 
 ----------
 
@@ -71,7 +71,7 @@ Java语言基础、算法和数据结构、计算机网络、操作系统和数�
 
 ## 二.  知识库 ##
 
-### Java基础 ###
+### 1. Java基础 ###
 
 - 01 变量与数据类型
 - 02 运算符与表达式
@@ -111,6 +111,6 @@ Java语言基础、算法和数据结构、计算机网络、操作系统和数�
 
 ![java.net.png](https://github.com/theG1FT/Knowledge-Base/blob/master/Java%E5%9F%BA%E7%A1%80/java.net.png)
 
-### 2. 协作开发-GIT ###
+### 2.协作开发-GIT ###
 
 - [【Git技术】2019年黑马最新一期Git视频教程分享一波，好评如潮](https://www.bilibili.com/video/av71077740?from=search&seid=1682426321821889729 "【Git技术】2019年黑马最新一期Git视频教程分享一波，好评如潮！")
